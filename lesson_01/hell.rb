@@ -1,1 +1,0 @@
-puts 'Hell, fucking world'
