@@ -12,6 +12,11 @@ while i < element_count:
     my_list.append(i)
 
 for el in range(int((len(my_list) - 1) / 2)):
-        my_list[element], my_list[element + 1] = my_list [element + 1], my_list[element]
-        element += 2
-print(my_list)
+#<<<<<<< less_03
+#    my_list[element], my_list[element + 1] = my_list [element + 1], my_list[element]
+#    element += 2
+#=======
+#        my_list[element], my_list[element + 1] = my_list [element + 1], my_list[element]
+#        element += 2
+#>>>>>>> master
+# print(my_list)
